@@ -1,2 +1,2 @@
-# A Pytorch Implementation of Detectron
+# A Pytorch Implementation of Phone recycling visual system
 
