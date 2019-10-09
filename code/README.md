@@ -15,7 +15,7 @@ For environment requirements, data preparation and compilation, please refer to 
 
 ### Usage
 
-For training and testing, we keep the same as the one in [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch). To train and test our network, simply use corresponding config files. For example, to train PANet on the phone dataset:
+For training and testing, we keep the same as the one in [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch). To train and test our network, simply use corresponding config files. For example, to train on the phone dataset:
 
 ```shell
 python tools/train_net_step.py --dataset phone --cfg configs/baselines/e2e_mask_rcnn_R-101-FPN_1x_edge.yaml
